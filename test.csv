@@ -1,0 +1,17 @@
+Name,Attacker IP Address,Country,Target IP Address
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),41.230.11.146,Kairouan,10.230.131.38
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),41.230.11.146,Kairouan,10.230.131.61
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),41.230.11.146,Kairouan,"10,230,131,111"
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),41.230.11.146,Kairouan,10.230.131.43
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),41.230.11.146,Kairouan,10.230.132.82
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.232.30
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),"10,230,149,232",,10.230.131.20
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.132.84
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.232.91
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),10.230.149.92,,10.230.130.18
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.232.55
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),"10,230,149,155",,10.230.96.23
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.232.57
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),10.230.149.57,,10.230.148.34
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),103.90.189.238,Beijing,10.230.232.31
+HTTP: PHP Remote Code Execution Vulnerability (CVE-2018-20062),"10,230,149,212",,"10,200,154,144"
